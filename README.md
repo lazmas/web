@@ -32,7 +32,7 @@ addon | version | maintainers | summary
 [web_dialog_size](web_dialog_size/) | 13.0.1.0.0 |  | A module that lets the user expand a dialog box to the full screen width.
 [web_disable_export_group](web_disable_export_group/) | 13.0.2.0.0 |  | Web Disable Export Group
 [web_domain_field](web_domain_field/) | 13.0.1.0.0 |  | Use computed field as domain
-[web_drop_target](web_drop_target/) | 13.0.1.1.1 |  | Allows to drag files into Odoo
+[web_drop_target](web_drop_target/) | 13.0.1.1.2 |  | Allows to drag files into Odoo
 [web_editor_background_color](web_editor_background_color/) | 13.0.1.0.0 |  | Set any background color for web editor snippets
 [web_environment_ribbon](web_environment_ribbon/) | 13.0.1.0.0 |  | Web Environment Ribbon
 [web_group_expand](web_group_expand/) | 13.0.1.0.0 |  | Group Expand Buttons
@@ -50,6 +50,7 @@ addon | version | maintainers | summary
 [web_search_with_and](web_search_with_and/) | 13.0.1.0.0 |  | Use AND conditions on omnibar search
 [web_send_message_popup](web_send_message_popup/) | 13.0.1.0.0 |  | Web Send Message as Popup
 [web_sheet_full_width](web_sheet_full_width/) | 13.0.1.0.0 |  | Use the whole available screen width when displaying sheets
+[web_time_range_menu_custom](web_time_range_menu_custom/) | 13.0.1.0.0 |  | Web Time Range Menu Custom
 [web_timeline](web_timeline/) | 13.0.1.1.1 | [![tarteo](https://github.com/tarteo.png?size=30px)](https://github.com/tarteo) | Interactive visualization chart to show events in time
 [web_translate_dialog](web_translate_dialog/) | 13.0.1.1.0 |  | Easy-to-use pop-up to translate fields in several languages
 [web_tree_dynamic_colored_field](web_tree_dynamic_colored_field/) | 13.0.1.0.0 |  | Allows you to dynamically color fields on tree views
