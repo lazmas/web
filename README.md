@@ -25,7 +25,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [web_action_conditionable](web_action_conditionable/) | 13.0.1.0.1 |  | web_action_conditionable
-[web_advanced_search](web_advanced_search/) | 13.0.1.0.3 |  | Easier and more powerful searching tools
+[web_advanced_search](web_advanced_search/) | 13.0.1.0.4 |  | Easier and more powerful searching tools
 [web_calendar_slot_duration](web_calendar_slot_duration/) | 13.0.1.0.0 | [![Yajo](https://github.com/Yajo.png?size=30px)](https://github.com/Yajo) | Customizable calendar slot durations
 [web_company_color](web_company_color/) | 13.0.1.0.1 |  | Web Company Color
 [web_decimal_numpad_dot](web_decimal_numpad_dot/) | 13.0.1.0.0 |  | Allows using numpad dot to enter period decimal separator
@@ -46,9 +46,10 @@ addon | version | maintainers | summary
 [web_pivot_computed_measure](web_pivot_computed_measure/) | 13.0.1.1.0 |  | Web Pivot Computed Measure
 [web_pwa_oca](web_pwa_oca/) | 13.0.1.0.2 | [![eLBati](https://github.com/eLBati.png?size=30px)](https://github.com/eLBati) | Make Odoo a PWA
 [web_refresher](web_refresher/) | 13.0.1.0.0 |  | Web Refresher
-[web_responsive](web_responsive/) | 13.0.2.7.0 | [![Yajo](https://github.com/Yajo.png?size=30px)](https://github.com/Yajo) [![Tardo](https://github.com/Tardo.png?size=30px)](https://github.com/Tardo) | Responsive web client, community-supported
+[web_responsive](web_responsive/) | 13.0.2.8.0 | [![Yajo](https://github.com/Yajo.png?size=30px)](https://github.com/Yajo) [![Tardo](https://github.com/Tardo.png?size=30px)](https://github.com/Tardo) | Responsive web client, community-supported
 [web_search_with_and](web_search_with_and/) | 13.0.1.0.0 |  | Use AND conditions on omnibar search
 [web_send_message_popup](web_send_message_popup/) | 13.0.1.0.0 |  | Web Send Message as Popup
+[web_set_single_page_hidden](web_set_single_page_hidden/) | 13.0.1.0.0 |  | Set single_page_hidden to false in Pager widget options
 [web_sheet_full_width](web_sheet_full_width/) | 13.0.1.0.0 |  | Use the whole available screen width when displaying sheets
 [web_time_range_menu_custom](web_time_range_menu_custom/) | 13.0.1.0.1 |  | Web Time Range Menu Custom
 [web_timeline](web_timeline/) | 13.0.1.1.1 | [![tarteo](https://github.com/tarteo.png?size=30px)](https://github.com/tarteo) | Interactive visualization chart to show events in time
@@ -69,6 +70,7 @@ addon | version | maintainers | summary
 [web_widget_one2many_product_picker](web_widget_one2many_product_picker/) | 13.0.1.0.0 |  | Widget to select products on one2many fields
 [web_widget_one2many_product_picker_sale_secondary_unit](web_widget_one2many_product_picker_sale_secondary_unit/) | 13.0.1.0.0 |  | Adds support for sale secondary unit in the one2many product picker widget
 [web_widget_one2many_product_picker_sale_stock](web_widget_one2many_product_picker_sale_stock/) | 13.0.1.0.0 |  | Adds support for stock in the one2many product picker widget
+[web_widget_one2many_tree_line_duplicate](web_widget_one2many_tree_line_duplicate/) | 13.0.1.0.0 |  | Web Widget One2many Tree Line Duplicate
 [web_widget_open_tab](web_widget_open_tab/) | 13.0.1.0.0 |  | Allow to open record from trees on new tab from tree views
 [web_widget_url_advanced](web_widget_url_advanced/) | 13.0.1.1.1 |  | This module extends URL widget for displaying anchors with custom labels.
 [web_widget_x2many_2d_matrix](web_widget_x2many_2d_matrix/) | 13.0.1.1.1 |  | Show list fields as a matrix
