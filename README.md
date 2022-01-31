@@ -32,7 +32,7 @@ addon | version | maintainers | summary
 [web_dialog_size](web_dialog_size/) | 13.0.1.0.0 |  | A module that lets the user expand a dialog box to the full screen width.
 [web_disable_export_group](web_disable_export_group/) | 13.0.2.1.0 |  | Web Disable Export Group
 [web_domain_field](web_domain_field/) | 13.0.1.0.0 |  | Use computed field as domain
-[web_drop_target](web_drop_target/) | 13.0.1.1.3 |  | Allows to drag files into Odoo
+[web_drop_target](web_drop_target/) | 13.0.1.1.4 |  | Allows to drag files into Odoo
 [web_editor_background_color](web_editor_background_color/) | 13.0.1.0.0 |  | Set any background color for web editor snippets
 [web_environment_ribbon](web_environment_ribbon/) | 13.0.1.0.0 |  | Web Environment Ribbon
 [web_group_expand](web_group_expand/) | 13.0.1.0.0 |  | Group Expand Buttons
@@ -42,7 +42,7 @@ addon | version | maintainers | summary
 [web_listview_range_select](web_listview_range_select/) | 13.0.1.0.0 |  | Enables selecting a range of records using the shift key
 [web_m2x_options](web_m2x_options/) | 13.0.1.0.3 |  | web_m2x_options
 [web_no_bubble](web_no_bubble/) | 13.0.1.0.0 |  | Remove the bubbles from the web interface
-[web_notify](web_notify/) | 13.0.1.0.1 |  | Send notification messages to user
+[web_notify](web_notify/) | 13.0.1.0.2 |  | Send notification messages to user
 [web_pivot_computed_measure](web_pivot_computed_measure/) | 13.0.1.1.0 |  | Web Pivot Computed Measure
 [web_pwa_oca](web_pwa_oca/) | 13.0.1.0.2 | [![eLBati](https://github.com/eLBati.png?size=30px)](https://github.com/eLBati) | Make Odoo a PWA
 [web_refresher](web_refresher/) | 13.0.1.0.0 |  | Web Refresher
@@ -60,7 +60,7 @@ addon | version | maintainers | summary
 [web_view_calendar_list](web_view_calendar_list/) | 13.0.1.0.0 |  | Show calendars as a List
 [web_widget_bokeh_chart](web_widget_bokeh_chart/) | 13.0.1.1.0 | [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) | This widget allows to display charts using Bokeh library.
 [web_widget_child_selector](web_widget_child_selector/) | 13.0.1.0.0 |  | Widget used for navigation on hierarchy fields
-[web_widget_domain_editor_dialog](web_widget_domain_editor_dialog/) | 13.0.1.0.2 |  | Recovers the Domain Editor Dialog functionality
+[web_widget_domain_editor_dialog](web_widget_domain_editor_dialog/) | 13.0.1.0.3 |  | Recovers the Domain Editor Dialog functionality
 [web_widget_dropdown_dynamic](web_widget_dropdown_dynamic/) | 13.0.1.0.0 |  | This module adds support for dynamic dropdown widget
 [web_widget_dropdown_dynamic_example](web_widget_dropdown_dynamic_example/) | 13.0.1.0.0 |  | Demonstration of web_widget_dropdown_dynamic
 [web_widget_image_download](web_widget_image_download/) | 13.0.1.0.0 |  | Allows to download any image from its widget
