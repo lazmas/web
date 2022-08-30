@@ -10,8 +10,10 @@ setuptools.setup(
     install_requires=[
         'odoo13-addon-web_action_conditionable',
         'odoo13-addon-web_advanced_search',
+        'odoo13-addon-web_boolean_button',
         'odoo13-addon-web_calendar_slot_duration',
         'odoo13-addon-web_company_color',
+        'odoo13-addon-web_confirm_duplicate',
         'odoo13-addon-web_decimal_numpad_dot',
         'odoo13-addon-web_dialog_size',
         'odoo13-addon-web_disable_export_group',
@@ -56,6 +58,7 @@ setuptools.setup(
         'odoo13-addon-web_widget_one2many_product_picker_sale_stock',
         'odoo13-addon-web_widget_one2many_tree_line_duplicate',
         'odoo13-addon-web_widget_open_tab',
+        'odoo13-addon-web_widget_text_markdown',
         'odoo13-addon-web_widget_url_advanced',
         'odoo13-addon-web_widget_x2many_2d_matrix',
         'odoo13-addon-web_widget_x2many_2d_matrix_example',
